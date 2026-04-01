@@ -121,11 +121,11 @@ SET Discount = ROUND(((Old_Price - Price) / Old_Price) * 100, 2);
 ## 🪜 How to Run
 1. **Scraping**
 *Run the scraper notebook*
-([jupyter scraper notebooks](./notebooks/Jumia web-scraper.ipynb))
+([Jumia scraper notebook](./notebooks/Jumia_web-scraper.ipynb))
 
 2. **Cleaning**
 *Run the cleaning notebook*
-([jupyter notebook notebooks](./notebooks/Jumia_Data_Cleaning.ipynb))
+([Jumia cleaning notebook](./notebooks/Jumia_Data_Cleaning_.ipynb))
 
 3. **MySQL Import**
 
