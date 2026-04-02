@@ -121,11 +121,10 @@ SET Discount = ROUND(((Old_Price - Price) / Old_Price) * 100, 2);
 ## 🪜 How to Run
 1. **Scraping**
 *Run the scraper notebook*
-> Check the commits for file
+> Check commits for file
 
 3. **Cleaning**
 *Run the cleaning notebook*
-([Jumia cleaning notebook](./notebooks/Jumia_Data_Cleaning_.ipynb))
 > Check commits for file
 
 4. **MySQL Import**
